@@ -10,7 +10,7 @@ export default function Home(): JSX.Element {
                 <title>Next.js Typescript boiler plate</title>
                 <meta name="description" content="" />
                 <link rel="icon" href="/favicon.ico" />
-            </Head>
+            </Head> <hea
             <div>Next.js Typescript boiler plate</div>
         </div>
     );
